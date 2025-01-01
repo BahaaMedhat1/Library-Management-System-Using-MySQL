@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Library Management System** built using MySQL. It includes table creation, data loading, and various queries to manage and analyze library operations efficiently.
+This project is a Library Management System developed using MySQL to efficiently manage and analyze library operations. It includes database creation, schema design, data loading, and advanced querying to handle tasks such as book tracking, branch performance analysis, and member management.
 
 ---
 
